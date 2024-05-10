@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+.results {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.options{
+    display:block;
+    text-align: center;
+}
+
+.options button{
+    font-size: 4em;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
